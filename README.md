@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi, I'm Drashti 👋
 
-<!--
-**drashti303/drashti303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | SQL | Excel | Power BI | Python
 
-Here are some ideas to get you started:
+## 🙋‍♀️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Data Analyst with a background in Computer Programming and software development.
+
+I enjoy working with data, finding patterns, analysing business performance, and creating reports that help businesses make better decisions.
+
+I have hands-on experience practising data analysis using SQL, Excel, Python, and Power BI. I also have previous experience in Android application development, which has helped me build strong programming and problem-solving skills.
+
+Currently, I am building data analytics projects and improving my technical skills.
+
+## 🛠️ Tech Stack
+
+**Data Analytics**
+- Microsoft Excel
+- SQL / MySQL
+- Power BI
+- Python for Data Analysis
+
+**Python Libraries**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+**Business Intelligence & Reporting**
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- KPI Reporting
+- Data Visualization
+- Dashboard Development
+- Business Insights
+
+## 💻 Programming Languages
+
+- SQL
+- Python
+- Java
+- Kotlin
+
+## 🔧 Tools & Technologies
+
+- MySQL Workbench
+- Microsoft Excel
+- Power BI
+- Jupyter Notebook
+- Android Studio
+- Git & GitHub
+
+## 📊 Projects
+
+**Tata 1mg – SQL Data Analytics**
+- Analysing simulated pharmacy and healthcare business data.
+- Creating business KPIs using MySQL.
+- Practising joins, CTEs, and window functions.
+
+More data analytics projects will be added as I continue learning and building.
+
+## 📫 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/drashti-devani-453985121/]
+- GitHub: [https://github.com/drashti303?tab=repositories]
+
+---
+
+*Always learning, practising, and building new projects.*
