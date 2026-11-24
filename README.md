@@ -1,7 +1,6 @@
 # Hi, I'm Drashti 👋
 
-### Data Analyst | SQL | Excel | Power BI | Python
-
+📊 Data Analyst | SQL | Excel | Power BI | Python
 ## 🙋‍♀️ About Me
 
 I am an aspiring Data Analyst with a background in Computer Programming and software development.
@@ -14,13 +13,13 @@ Currently, I am building data analytics projects and improving my technical skil
 
 ## 🛠️ Tech Stack
 
-**Data Analytics**
+## 📈 Data Analytics**
 - Microsoft Excel
 - SQL / MySQL
 - Power BI
 - Python for Data Analysis
 
-**Python Libraries**
+## 🐍Python Libraries**
 - Pandas
 - NumPy
 - Matplotlib
@@ -50,7 +49,15 @@ Currently, I am building data analytics projects and improving my technical skil
 - Android Studio
 - Git & GitHub
 
-## 📊 Projects
+📊 Data Analytics Skills
+
+🧹 Data Cleaning and Validation
+🔍 Exploratory Data Analysis (EDA)
+📐 KPI Reporting and Business Analysis
+📊 Data Visualization and Dashboard Development
+💡 Finding Trends and Business Insights
+
+## 📊 Featured Projects
 
 **Tata 1mg – SQL Data Analytics**
 - Analysing simulated pharmacy and healthcare business data.
@@ -66,4 +73,4 @@ More data analytics projects will be added as I continue learning and building.
 
 ---
 
-*Always learning, practising, and building new projects.*
+*✨ Always learning, practising, and building new projects.*
