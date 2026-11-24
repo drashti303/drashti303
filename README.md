@@ -49,13 +49,13 @@ Currently, I am building data analytics projects and improving my technical skil
 - Android Studio
 - Git & GitHub
 
-📊 Data Analytics Skills
+## 📊 Data Analytics Skills
 
-🧹 Data Cleaning and Validation
-🔍 Exploratory Data Analysis (EDA)
-📐 KPI Reporting and Business Analysis
-📊 Data Visualization and Dashboard Development
-💡 Finding Trends and Business Insights
+- 🧹 Data Cleaning and Validation
+- 🔍 Exploratory Data Analysis (EDA)
+- 📐 KPI Reporting and Business Analysis
+- 📊 Data Visualization and Dashboard Development
+- 💡 Finding Trends and Business Insights
 
 ## 📊 Featured Projects
 
